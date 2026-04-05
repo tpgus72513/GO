@@ -1,0 +1,17 @@
+package main
+
+import "fmt"
+
+// func main() {
+// 	fmt.Printf("\\    /\\\n")
+// 	fmt.Printf(" )  ( ')\n")
+// 	fmt.Printf("(  /  )\n")
+// 	fmt.Printf(" \\(__)|\n")
+// }
+
+func main() {
+	fmt.Println(`\    /\
+ )  ( ')
+(  /  )
+ \(__)|`)
+}
